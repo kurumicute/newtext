@@ -101,7 +101,8 @@
 
 信用分险策略开发:决策树(CART回归树)
 
-![text5](https://github.com/user-attachments/assets/a59624c0-e4cb-43ec-ad6d-c2f657d7c1ac)  
+  ![text6](https://github.com/user-attachments/assets/a6d00d52-0276-411d-93ec-054382cf0144)  
+
 
 
 #1.6.5 信用评分卡
