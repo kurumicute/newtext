@@ -1,6 +1,5 @@
 # 【金融风控项目-05】：信贷业务审批流程介绍
 11124121林宜頌 張哲維
-![image](https://github.com/user-attachments/assets/6038da9d-6722-4bc2-a5e9-ccf3f9c12595)
 
 # 1 信贷业务审批流程
 
